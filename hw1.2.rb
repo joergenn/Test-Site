@@ -1,3 +1,4 @@
+print 'buna ziua eu vand branza'
 # ex2
 food = Array['bacon', 'orange', 'apple']
 
